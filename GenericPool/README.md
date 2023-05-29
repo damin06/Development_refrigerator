@@ -1,3 +1,3 @@
-# Development_refrigerator
+# PoolManager
 
-개발할때 필요한 것들을 모아두었습니다.풀
+제네릭 풀매니저
