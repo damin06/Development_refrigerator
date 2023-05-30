@@ -1,6 +1,6 @@
----
+# ColorInHierarchy
 
-# **ColorInHierarchy**
+---
 
 > 하이라키창의 색깔을 바꾸어주는 스크립트 입니다.
 >
